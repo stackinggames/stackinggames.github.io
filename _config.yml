@@ -1,5 +1,10 @@
-title: Midnight theme
-description: Midnight is a theme for GitHub Pages.
+title: Stacking Games
+description: On this webiste, you can play these games called stacking games. 
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-midnight
+github:
+  UTT: https://stackinggames.github.io/UTT.html
+  snort: https://stackinggames.github.io/snort.html
+  col: https://stackinggames.github.io/col.html
+  cis: https://stackinggames.github.io/cis.html
